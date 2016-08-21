@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MODASSIR</Machine>
+    <WindowsUser>modassirpc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>811637eb-7370-401f-95a3-38d1b190d7d4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0E0A4CC8932B1BEEA81D0BBF0F09D3B2D434E2AB6C8C0C52FB27BE329EBBE014</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>811637eb-7370-401f-95a3-38d1b190d7d4_1.0.0.0_neutral__0sqc2fpsavjv8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>811637eb-7370-401f-95a3-38d1b190d7d4_0sqc2fpsavjv8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>811637eb-7370-401f-95a3-38d1b190d7d4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=modassirpc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-17T18:42:26.842</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\App38.Windows.exe">
+      <PackagePath>App38.Windows.exe</PackagePath>
+      <Modified>2016-08-17T20:02:04.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2016-08-08T12:29:34.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2016-08-08T12:29:34.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-08T12:29:34.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2016-08-08T12:29:34.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-08T12:29:34.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-08T12:29:34.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-08T12:29:34.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <Modified>2016-08-08T12:29:34.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\App38.Windows.xr.xml">
+      <PackagePath>App38.Windows.xr.xml</PackagePath>
+      <Modified>2016-08-17T19:25:22.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-08-17T19:25:31.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\common\StandardStyles.xbf">
+      <PackagePath>common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-08-08T12:18:08.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-08-17T18:34:53.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\RecordingsPage.xbf">
+      <PackagePath>RecordingsPage.xbf</PackagePath>
+      <Modified>2016-08-17T18:12:25.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\modassirpc\documents\visual studio 2015\Projects\App38\App38\App38.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-17T18:42:26.617</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
